@@ -16,6 +16,7 @@ int main(int argc, char* argv[]) {
     while (it != intList.end()) {
         std::cout << *it << std::endl;
         it++;
+        std::cout<<"HAHAHA";
     }
 
     return 0;
